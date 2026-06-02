@@ -1,4 +1,4 @@
-# restaurant-mangement-system
+# restaurant-management-system
 #Key Features:
 1. Menu Management
 Manages 5 categories of food: Chinese, Desi, Italian, FastFood, and Drinks
