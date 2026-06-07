@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Elitebook/Desktop/restuarant management system",
-      "program": "c:/Users/Elitebook/Desktop/restuarant management system/build/Debug/outDebug",
+      "cwd": "c:/Users/Elitebook/github_repo/restuarant-mangement-system",
+      "program": "c:/Users/Elitebook/github_repo/restuarant-mangement-system/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
